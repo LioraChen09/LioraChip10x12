@@ -8,14 +8,23 @@
 - 於是，本人著手對這款字體進行修改，使其更好地支持簡繁中文，同時優化並擴展了原作的西文部分。
 > [!IMPORTANT]
 >
-> **重要**：本字體使用 [Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas) 製作，未保留原作的 OpenType 特性，本字體的 OpenType 特性將在正式版加入。
+> **重要**：本字體使用 [Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas) 製作。因軟件限制，本字體未保留原作的 OpenType 特性。OpenType 特性將在正式版加入。
+
+## 📜 樣　張
+
+![1](documentation/1.png)
+
+> 原作的西文字符集僅支持基本拉丁文，本字體對原字體的西文字符集進行了大幅擴展；此外，為更好地顯示帶變音符號的字母，本字體調高了行高，多行排版的視覺效果亦顯著提昇。
+> 
+> 本字體也將原字體的阿拉伯數字由 6 像素寬調整至 7 像素寬，英數混排更加和諧。
+
 ## ©️ 版　權
 - 本字體使用「[SIL 開放字體許可證 第 1.1 版](https://openfontlicense.org/)」授權，保留字體名稱「Liora」。
 
 ## 😊 感　謝
 |序號|人員|備註|
 |:---:|:---:|---|
-|1|[患者長ひっく](https://github.com/hicchicc)|開源原字體「[x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip)」；|
-|2|製作本字體所用軟件的開發者們|為本字體的製作提供工具；|
+|1|[患者長ひっく](https://github.com/hicchicc)|開源原字體「[x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip)」|
+|2|製作本字體所用軟件的開發者們|為本字體的製作提供工具|
 |3|為本字體建言獻策的群友們||
 |4|使用這款字體的你||
