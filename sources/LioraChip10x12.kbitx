@@ -9,7 +9,7 @@
 <prop id="xHeight" value="8"/>
 <prop id="capHeight" value="10"/>
 <prop id="newGlyphWidth" value="10"/>
-<name id="0" value="Copyright 2026 Liora Chen (https://github.com/LioraChen09), The x8y12pxDenkiChip Project Authors (https://github.com/hicchicc/x8y12pxDenkiChip)"/>
+<name id="0" value="Copyright (c) 2026 Liora Chen (https://github.com/LioraChen09), The x8y12pxDenkiChip Project Authors (https://github.com/hicchicc/x8y12pxDenkiChip)"/>
 <name id="1" value="Liora Chip 10x12"/>
 <name id="2" value="Bold"/>
 <name id="3" value="BitsNPicas: LioraChip10x12Bold: 2026"/>
