@@ -25,7 +25,7 @@
 |序號|人員|備註|
 |:---:|:---:|---|
 |1|[患者長ひっく](https://github.com/hicchicc)|開源原字體「[x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip)」|
-|2|[Minseo Lee](https://github.com/quiple)|開源「[x10y12pxDenkiChipHangul](https://github.com/quiple/x10y12pxDenkiChipHangul)」為本字體提供諺文部分（將在正式版加入）|
+|2|[Minseo Lee](https://github.com/quiple)|開源「[x10y12pxDenkiChipHangul](https://github.com/quiple/x10y12pxDenkiChipHangul)」為本字體提供諺文部分（這個版本有 bug，`U+3164` 為零寬，本人已修復）|
 |3|製作本字體所用軟件的開發者們|為本字體的製作提供工具|
 |4|為本字體建言獻策的群友們||
 |5|使用這款字體的你||
