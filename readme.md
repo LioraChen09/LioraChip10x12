@@ -10,10 +10,6 @@
 >
 > **重要**：本字體使用 [Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas) 製作。因軟件限制，本字體未保留原字體的 OpenType 特性。OpenType 特性將在正式版加入。
 
-## 📜 樣　張
-
-![1](documentation/1.png)
-
 > 原字體的西文字符集僅支持基本拉丁文，本字體對原字體的西文字符集進行了大幅擴展；此外，為更好地顯示帶變音符號的字母，本字體調高了行高，多行排版的視覺效果亦顯著提昇。
 > 
 > 本字體也將原字體的阿拉伯數字由 6 像素寬調整至 7 像素寬，英數混排更加和諧。
@@ -25,7 +21,7 @@
 |序號|人員|備註|
 |:---:|:---:|---|
 |1|[患者長ひっく](https://github.com/hicchicc)|開源原字體「[x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip)」|
-|2|[Minseo Lee](https://github.com/quiple)|開源「[x10y12pxDenkiChipHangul](https://github.com/quiple/x10y12pxDenkiChipHangul)」為本字體提供諺文部分（這個版本有 bug，`U+3164` 為零寬，本人已修復）|
+|2|[Minseo Lee](https://github.com/quiple)|開源「[x10y12pxDenkiChipHangul](https://github.com/quiple/x10y12pxDenkiChipHangul)」為本字體提供諺文部分|
 |3|製作本字體所用軟件的開發者們|為本字體的製作提供工具|
 |4|為本字體建言獻策的群友們||
 |5|使用這款字體的你||
