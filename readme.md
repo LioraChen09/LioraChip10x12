@@ -1,4 +1,4 @@
-# 辰芯像素體 10x12 | Liora Chip 10x12
+# 小莉電芯黑 10x12 | Liora Chip 10x12
 - 這是一款又酷又萌的中文像素字體，基於「[x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip)」增補及修改。
 - 本字體目前還在**先行測試階段**，**仍缺少大量漢字**。
 
